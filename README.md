@@ -9,6 +9,7 @@ Multiple Modes: Choose between player vs. player mode or play  er vs. AI mode wi
 
 Customizable Options: Tailor the game experience with options for different board sizes or alternative symbols.
 
+
 Winning Strategies: Implement various winning strategies for the AI opponent.
 
 User-Friendly Interface: A clean, intuitive interface for seamless gameplay.
