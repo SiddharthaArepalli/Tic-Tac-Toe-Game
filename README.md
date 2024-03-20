@@ -14,6 +14,7 @@ Winning Strategies: Implement various winning strategies for the AI opponent.
 
 User-Friendly Interface: A clean, intuitive interface for seamless gameplay.
 
+
 How to Play:
 
 Clone the repository to your local machine.
